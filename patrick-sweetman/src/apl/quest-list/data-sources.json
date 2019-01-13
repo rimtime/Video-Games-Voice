@@ -1,0 +1,150 @@
+{
+    "listTemplate1Metadata": {
+        "type": "object",
+        "objectId": "lt1Metadata",
+        "backgroundImage": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/0kjHIH6/animation-of-1980s-old-arcade-super-mario-bros-clouds-background_vywb1uvex__F0000.png",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/0kjHIH6/animation-of-1980s-old-arcade-super-mario-bros-clouds-background_vywb1uvex__F0000.png",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "title": "Choose Your Quest",
+        "logoUrl": "https://media.licdn.com/dms/image/C560BAQGTFddEAGSxag/company-logo_200_200/0?e=2159024400&v=beta&t=GBVYxeyRMLjOIBdJkA_f4L734jnKVfTrgg49UmjgG8o"
+    },
+    "listTemplate1ListData": {
+        "type": "list",
+        "listId": "lt1Sample",
+        "totalNumberOfItems": 10,
+        "listPage": {
+            "listItems": [
+                {
+                    "listItemIdentifier": "Dragon Quest",
+                    "ordinalNumber": 1,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Dragon Quest"
+                        },
+                        "secondaryText": {
+                            "type": "PlainText",
+                            "text": "Slay the Dragon"
+                        },
+                        "tertiaryText": {
+                            "type": "PlainText",
+                            "text": "100 exp"
+                        }
+                    },
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://i.ytimg.com/vi/OSI102cY3sE/maxresdefault.jpg",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://i.ytimg.com/vi/OSI102cY3sE/maxresdefault.jpg",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "dragon"
+                },
+                {
+                    "listItemIdentifier": "Mountain",
+                    "ordinalNumber": 2,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Mountain Quest"
+                        },
+                        "secondaryText": {
+                            "type": "RichText",
+                            "text": "Race to the top of the mountain"
+                        },
+                        "tertiaryText": {
+                            "type": "PlainText",
+                            "text": "113 exp"
+                        }
+                    },
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT7KDuAjuS0NCONFu44_WyDBAtI8ucP9hWmc_T4PUYbmWPvTeivw",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT7KDuAjuS0NCONFu44_WyDBAtI8ucP9hWmc_T4PUYbmWPvTeivw",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "mountain"
+                },
+                {
+                    "listItemIdentifier": "pyramid",
+                    "ordinalNumber": 3,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Pyramid Quest"
+                        },
+                        "secondaryText": {
+                            "type": "RichText",
+                            "text": "Explore the Pyramids"
+                        },
+                        "tertiaryText": {
+                            "type": "PlainText",
+                            "text": "476 exp"
+                        }
+                    },
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://png.pngtree.com/element_origin_min_pic/17/07/15/2850c7a52e331f72f994c747938e932e.jpg",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://png.pngtree.com/element_origin_min_pic/17/07/15/2850c7a52e331f72f994c747938e932e.jpg",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "pyramid"
+                }
+            ]
+        }
+    }
+}
