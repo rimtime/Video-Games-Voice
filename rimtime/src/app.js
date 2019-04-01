@@ -27,9 +27,10 @@ app.setHandler({
         this.$alexaSkill.addDirective({
             type: 'Alexa.Presentation.APL.RenderDocument',
             version: '1.0',
-            document: require(`./apl/main.json`), // Plain "Hello World" template
-            datasources: {},
+            document: require(`./apl/quest-list/document.json`), // List of available quests
+            datasources: require(`./apl/quest-list/data-sources.json`),
         })
+        this.ask("Time to pick a quest! Defeat the dragon, race to the mountain top, or explore caves")
     },
     ShowTemplateIntent() {
         let template = this.$inputs.template;
@@ -41,6 +42,7 @@ app.setHandler({
               document: require(`./apl/${template.id}/document.json`),
               datasources: require(`./apl/${template.id}/data-sources.json`),
         });
+        this.ask("Please say another APL template to view APL. Otherwise, say END to exit now.")
     }
 });
 

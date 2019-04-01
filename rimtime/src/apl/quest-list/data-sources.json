@@ -1,0 +1,150 @@
+{
+    "listTemplate1Metadata": {
+        "type": "object",
+        "objectId": "lt1Metadata",
+        "backgroundImage": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sky-3.jpg/500px-Sky-3.jpg",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sky-3.jpg/500px-Sky-3.jpg",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "title": "Choose Your Quests",
+        "logoUrl": "http://tenasitech.com/images/tenasitech_logo-new.png"
+    },
+    "listTemplate1ListData": {
+        "type": "list",
+        "listId": "lt1Sample",
+        "totalNumberOfItems": 10,
+        "listPage": {
+            "listItems": [
+                {
+                    "listItemIdentifier": "Dragon Quest",
+                    "ordinalNumber": 1,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Dragon Quest"
+                        },
+                        "secondaryText": {
+                            "type": "PlainText",
+                            "text": "Slay the dragon"
+                        },
+                        "tertiaryText": {
+                            "type": "PlainText",
+                            "text": "100 experience pts"
+                        }
+                    },
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://render.fineartamerica.com/images/rendered/default/framed-print/images-medium-5/monkey-showing-red-bottom-simon-bratt-photography.jpg?imgWI=10.000&imgHI=6.625&sku=CRQ13&mat1=PM918&mat2=&t=2&b=2&l=2&r=2&off=0.5&frameW=0.875",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://render.fineartamerica.com/images/rendered/default/framed-print/images-medium-5/monkey-showing-red-bottom-simon-bratt-photography.jpg?imgWI=10.000&imgHI=6.625&sku=CRQ13&mat1=PM918&mat2=&t=2&b=2&l=2&r=2&off=0.5&frameW=0.875",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "Dragon"
+                },
+                {
+                    "listItemIdentifier": "Mountain",
+                    "ordinalNumber": 2,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Mountain Run"
+                        },
+                        "secondaryText": {
+                            "type": "RichText",
+                            "text": "Reach the top"
+                        },
+                        "tertiaryText": {
+                            "type": "PlainText",
+                            "text": "90 exp pts"
+                        }
+                    },
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://petrarms.com/wp-content/uploads/2018/03/Mountaintop-with-snow.jpg",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://petrarms.com/wp-content/uploads/2018/03/Mountaintop-with-snow.jpg",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "mountain"
+                },
+                {
+                    "listItemIdentifier": "Caves",
+                    "ordinalNumber": 3,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Cave Explorer"
+                        },
+                        "secondaryText": {
+                            "type": "RichText",
+                            "text": "Find the gold"
+                        },
+                        "tertiaryText": {
+                            "type": "PlainText",
+                            "text": "200 exp"
+                        }
+                    },
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://s.abcnews.com/images/Health/180709_vod_orig_cavedisease_hpMain_16x9_992.jpg",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://s.abcnews.com/images/Health/180709_vod_orig_cavedisease_hpMain_16x9_992.jpg",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "caves"
+                }
+            ]
+        }
+    }
+}
